@@ -1,0 +1,44 @@
+Link of study in YouTube:
+https://www.youtube.com/watch?v=fe4iuaoxGbA
+
+
+Create a blanck solution
+Create a classLibrary as "Domain" and delete the empty class
+create a classLibrary as "Application" and delete the initiate empty class
+right click on Application->Dependencies---->add project references -> select "Domain" and ok
+noget Package managment -> install MediatR -> FluentValidation.DependencyInjectionExtensions or just FluentValidation
+right click on Application -> add -> class -> name: DependencyInjection (write your depemdencies here)
+Create a new class library project in solution as Infrastructure and delete the empty class
+Install the Microsoft.Extensions.DependencyInjection for this project by hovering on the IServiceCollection in DependencyInjection
+class has nothing inside of it
+ 
+Create a new class library project in solution as Presentation and delete the empty class
+Install the Microsoft.Extensions.DependencyInjection for this project by hovering on the IServiceCollection in DependencyInjection
+class has nothing inside of it
+
+
+the last pice is the actual API project:
+Create a Asp.net WebApi project 
+right click on WebApi->Dependencies---->add project references -> select "Application, Infrastructure, Presentation" and ok (You don't need Domain as you can get access to it by Application)
+
+
+now WebApi-> Dependencies-----> nuget packaje managment --> "add Serilog.AspNetCore"
+
+
+then go WebApi-> Program.cs and add this services to code befor bulder:
+
+builder.Services.AddApplication();
+builder.Services.AddInfrastructure();
+builder.Services.AddPresentation();
+
+builder.Host.UseSerilog((context, configuration) =>
+    configuration.ReadFrom.Configuration(context.Configuration));
+	
+	
+
+
+now you have to add your actual configuration if you like
+
+then you can add to after app.Environment.IsDev... in Program.cs in WebApi
+
+app.UseSerilogRequestLogging();

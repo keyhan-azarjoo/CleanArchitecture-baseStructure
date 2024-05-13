@@ -1,0 +1,12 @@
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.deps.json
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.dll
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\bin\Debug\net8.0\Presentation.pdb
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.csproj.AssemblyReference.cache
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfoInputs.cache
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.AssemblyInfo.cs
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.csproj.CoreCompileInputs.cache
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.dll
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\refint\Presentation.dll
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\Presentation.pdb
+C:\code\Training\ASP\CookieAuthentication and JWTAuthentication\CleanArchitecture\Presentation\obj\Debug\net8.0\ref\Presentation.dll

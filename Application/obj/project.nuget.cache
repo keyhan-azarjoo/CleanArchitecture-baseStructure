@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UYwYFupqjMXzmxBxvC5iTa/lzEAjTRNmSb+6yaGCz9lADRDL/DNLEjDp69vdkk9qwifhPzt8inBeDKD856J3ew==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\CleanArchitecture\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.9.1\\fluentvalidation.dependencyinjectionextensions.11.9.1.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

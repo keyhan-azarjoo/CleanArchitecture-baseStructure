@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7eRA1cTXon4JTlX+BHzBfToJcpdE4Pkdvowbaz1w8K+yI/CG/wd7uHEeKZDIW4r33sTAnYpY4YLu+8m/1uc6sw==",
+  "success": true,
+  "projectFilePath": "C:\\code\\Training\\ASP\\CookieAuthentication and JWTAuthentication\\CleanArchitecture\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KeyhanAzarjoo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
